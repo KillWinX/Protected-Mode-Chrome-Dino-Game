@@ -20,7 +20,7 @@ The game features:
 
 ## How to Play  
 
-1. Boot the game in a supported environment (OS / emulator).  
+1. Boot the file in **bin/MBR** in vmware or qemu.  
 2. Press **Enter** to start the game.  
 3. Use **SPACE** to make the dino jump.  
 4. Avoid obstacles and try to score points.  
