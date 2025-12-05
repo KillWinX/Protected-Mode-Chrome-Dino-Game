@@ -36,4 +36,4 @@ This project is a **personal OS-level game experiment** created by **KillWinX**.
 
 ## License  
 
-Feel free to check, modify, or use this project for learning purposes. Add a proper license if you want to share it openly.
+Feel free to check, modify, or use this project for learning purposes. Credits after use are mandatory.
